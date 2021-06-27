@@ -5,7 +5,7 @@
   max-width: 280px;
   margin-top: 32px;
   margin-left: 32px;
-  height: 400px;
+  margin-bottom: 32px;
 }
 
 img {
@@ -25,7 +25,7 @@ h5 {
 }
 
 p {
-  margin-bottom: 48px;
   text-align: justify;
+  height: 150px;
 }
 
